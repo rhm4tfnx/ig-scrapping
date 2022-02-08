@@ -107,9 +107,9 @@ class Mamat():
 def main():
     print('{LOGIN!}')
     # input('[REQUIRED] Enter your username account :')
-    user_ig = 'rhmatfnx'
+    user_ig = 'yourusername'
     # input('[REQUIRED] Enter your password account :')
-    pass_ig = 'R4HM4T_H1D4Y4T'
+    pass_ig = 'yourpassword'
     # ig account to scrapping
     who = input('Enter username account for scrapping :')
     user = Mamat(user_ig,pass_ig,who)    
